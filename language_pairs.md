@@ -57,4 +57,5 @@ The Test BLEU score is computed on the JW300 [test sets](https://github.com/masa
 | French | Lingala | 39.81 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-ln/french-lingala-baseline) | :x: |
 | French | Swahili Congo | 33.73 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-swc/french-swahili_drc_baseline) | :x: |
 | Nigerian Pidgin | English | 24.95 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/pcm-en/jw300-baseline) | :x: |
+| Shona | English | 32.58 |[link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/sn-en/noam-JW300-baseline) | :x: |
 
